@@ -12,18 +12,6 @@
   // Also support default emotions
   var translations = {
     ':)'   : 'smile',
-<<<<<<< HEAD
-    ':('   : 'frowning',
-    ';)'   : 'wink',
-    ':\'(' : 'cry',
-    ':P'   : 'stuck_out_tongue',
-    ':O'   : 'open_mouth',
-    ':D'   : 'grin',
-    ':|'   : 'expressionless',
-    ";P"   : 'stuck_out_tongue_winking_eye',
-    ';)'   : 'wink',
-    ":$"   : 'blush'
-=======
     ':-)'   : 'smile',
     ':('   : 'frowning',
     ':-('   : 'frowning',
@@ -46,7 +34,6 @@
     ';-)'   : 'wink',
     ":$"   : 'blush',
     ":-$"   : 'blush'
->>>>>>> upstream/master
   };
 
   Object.keys(translations).forEach(function (code) {
